@@ -1,0 +1,660 @@
+2018-10-29 00:00:09.776  INFO 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 00:00:16.579  INFO 20512 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:00:16.580  INFO 20512 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:01:43.909 ERROR 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:02:13.200 ERROR 20512 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:02:35.581  INFO 20512 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 00:02:37.230  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:02:37.231  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:02:47.824  INFO 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:02:47.825  INFO 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:02:49.561  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:02:49.561  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:04:35.732 ERROR 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:04:48.610 ERROR 20512 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:04:59.737  INFO 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:04:59.737  INFO 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:05:40.881 ERROR 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:05:48.601 ERROR 20512 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:05:57.646 ERROR 20512 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:05:59.936  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:05:59.936  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:06:16.793 ERROR 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:06:19.260  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:06:19.260  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:06:30.776 ERROR 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:06:33.033  INFO 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:06:33.033  INFO 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:11:56.327 ERROR 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:12:21.943 ERROR 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:14:01.371 ERROR 20512 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:14:10.016 ERROR 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:14:16.486  INFO 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:14:16.487  INFO 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:14:24.878  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:14:24.878  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:14:28.137  INFO 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:14:28.137  INFO 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:14:56.466 ERROR 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:15:03.935 ERROR 20512 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:15:07.469  INFO 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:15:07.470  INFO 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:16:00.253 ERROR 20512 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:16:13.668 ERROR 20512 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:16:16.524  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:16:16.525  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:16:58.424 ERROR 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:17:05.382 ERROR 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:17:11.018 ERROR 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:17:13.235  INFO 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:17:13.235  INFO 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:17:40.502 ERROR 20512 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:17:49.111 ERROR 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:17:51.464  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:17:51.464  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:20:31.337  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 00:20:33.365  INFO 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:20:33.366  INFO 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:22:23.918  INFO 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 00:22:25.745  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:22:25.746  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:25:56.138 ERROR 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:25:57.945  INFO 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:25:57.945  INFO 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:27:48.439 ERROR 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:27:55.350 ERROR 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:40:14.130  INFO 20512 --- [http-nio-8081-exec-8] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:428) ~[tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:684) ~[tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135) [na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at java.base/java.lang.Thread.run(Thread.java:844) [na:na]
+
+2018-10-29 00:40:14.130  INFO 20512 --- [http-nio-8081-exec-7] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:428) ~[tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:684) ~[tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135) [na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at java.base/java.lang.Thread.run(Thread.java:844) [na:na]
+
+2018-10-29 00:40:45.646  INFO 20512 --- [http-nio-8081-exec-5] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:428) ~[tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:684) ~[tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135) [na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at java.base/java.lang.Thread.run(Thread.java:844) [na:na]
+
+2018-10-29 00:41:25.596  INFO 20512 --- [http-nio-8081-exec-5] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:428) ~[tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:684) ~[tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135) [na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.34.jar:8.5.34]
+	at java.base/java.lang.Thread.run(Thread.java:844) [na:na]
+
+2018-10-29 00:41:46.957  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 00:41:48.685  INFO 20512 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 00:41:48.685  INFO 20512 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 00:42:46.334 ERROR 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:42:51.015 ERROR 20512 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 00:42:55.783 ERROR 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:24:03.699  INFO 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 09:24:05.331  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:24:05.332  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:28:24.310 ERROR 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:29:11.376  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:29:11.377  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:29:16.845  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:29:16.846  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:29:18.576  INFO 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:29:18.576  INFO 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:34:08.985 ERROR 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:34:11.636  INFO 20512 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:34:11.637  INFO 20512 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:37:09.995 ERROR 20512 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:38:29.797 ERROR 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:38:43.795  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 09:38:45.231  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:38:45.231  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:43:32.495 ERROR 20512 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:43:34.621  INFO 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:43:34.621  INFO 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:43:45.779  INFO 20512 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:43:45.779  INFO 20512 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:43:47.501  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:43:47.501  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:48:07.236 ERROR 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:48:17.236 ERROR 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:48:24.940 ERROR 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:48:27.942  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:48:27.942  INFO 20512 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:48:44.265 ERROR 20512 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:48:49.882 ERROR 20512 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:49:01.391 ERROR 20512 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:49:03.867 ERROR 20512 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:49:26.657  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:49:26.657  INFO 20512 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:51:00.559 ERROR 20512 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:51:08.898 ERROR 20512 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:51:10.222  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:51:10.223  INFO 20512 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:53:00.208  INFO 20512 --- [Thread-2] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@57a3e26a: startup date [Sun Oct 28 23:59:31 IST 2018]; root of context hierarchy
+2018-10-29 09:53:00.211  INFO 20512 --- [Thread-2] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483647
+2018-10-29 09:53:00.212  INFO 20512 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-10-29 09:53:00.218  INFO 20512 --- [Thread-2] org.mongodb.driver.connection            : Closed connection [connectionId{localValue:2, serverValue:18}] to localhost:27017 because the pool has been closed.
+2018-10-29 09:53:05.433  INFO 23644 --- [main] c.s.m.MovieServiceApplication            : Starting MovieServiceApplication on cgi-madhuri with PID 23644 (/home/cgi/Downloads/all/movie-service/target/classes started by cgi in /home/cgi/Downloads/all/movie-service)
+2018-10-29 09:53:05.441  INFO 23644 --- [main] c.s.m.MovieServiceApplication            : No active profile set, falling back to default profiles: default
+2018-10-29 09:53:05.565  INFO 23644 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@a1f72f5: startup date [Mon Oct 29 09:53:05 IST 2018]; root of context hierarchy
+2018-10-29 09:53:08.521  INFO 23644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2018-10-29 09:53:08.553  INFO 23644 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-10-29 09:53:08.553  INFO 23644 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+2018-10-29 09:53:08.564  INFO 23644 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+2018-10-29 09:53:08.674  INFO 23644 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-10-29 09:53:08.740  INFO 23644 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-10-29 09:53:08.745  INFO 23644 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-10-29 09:53:08.746  INFO 23644 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-10-29 09:53:08.747  INFO 23644 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-10-29 09:53:08.747  INFO 23644 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-10-29 09:53:09.053  INFO 23644 --- [main] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-10-29 09:53:09.145  INFO 23644 --- [cluster-ClusterId{value='5bd68b2debb4d55c5cd2a6c3', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:20}] to localhost:27017
+2018-10-29 09:53:09.158  INFO 23644 --- [cluster-ClusterId{value='5bd68b2debb4d55c5cd2a6c3', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 3]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=7180077}
+2018-10-29 09:53:10.140  INFO 23644 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-10-29 09:53:10.706  INFO 23644 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-10-29 09:53:10.719  INFO 23644 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2018-10-29 09:53:10.720  INFO 23644 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2018-10-29 09:53:10.746  INFO 23644 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2018-10-29 09:53:10.781  INFO 23644 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-10-29 09:53:11.067  INFO 23644 --- [main] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:21}] to localhost:27017
+2018-10-29 09:53:11.115  INFO 23644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2018-10-29 09:53:11.120  INFO 23644 --- [main] c.s.m.MovieServiceApplication            : Started MovieServiceApplication in 6.492 seconds (JVM running for 7.192)
+2018-10-29 09:53:32.189  INFO 23644 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-10-29 09:53:32.347  INFO 23644 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 09:53:33.601  INFO 23644 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:53:33.602  INFO 23644 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:54:28.808 ERROR 23644 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 09:55:02.853  INFO 23644 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:55:02.853  INFO 23644 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:58:13.811 ERROR 23644 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieNotFoundException: Movie is not found in database
+2018-10-29 09:58:26.784  INFO 23644 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 09:58:26.785  INFO 23644 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 09:58:49.155  INFO 23644 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 09:59:56.004  INFO 23644 --- [Thread-2] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@a1f72f5: startup date [Mon Oct 29 09:53:05 IST 2018]; root of context hierarchy
+2018-10-29 09:59:56.007  INFO 23644 --- [Thread-2] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483647
+2018-10-29 09:59:56.010  INFO 23644 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-10-29 09:59:56.017  INFO 23644 --- [Thread-2] org.mongodb.driver.connection            : Closed connection [connectionId{localValue:2, serverValue:21}] to localhost:27017 because the pool has been closed.
+2018-10-29 10:00:01.952  INFO 23835 --- [main] c.s.m.MovieServiceApplication            : Starting MovieServiceApplication on cgi-madhuri with PID 23835 (/home/cgi/Downloads/all/movie-service/target/classes started by cgi in /home/cgi/Downloads/all/movie-service)
+2018-10-29 10:00:01.960  INFO 23835 --- [main] c.s.m.MovieServiceApplication            : No active profile set, falling back to default profiles: default
+2018-10-29 10:00:02.090  INFO 23835 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@e25951c: startup date [Mon Oct 29 10:00:02 IST 2018]; root of context hierarchy
+2018-10-29 10:00:04.836  INFO 23835 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2018-10-29 10:00:04.876  INFO 23835 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-10-29 10:00:04.877  INFO 23835 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+2018-10-29 10:00:04.891  INFO 23835 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+2018-10-29 10:00:05.043  INFO 23835 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-10-29 10:00:05.116  INFO 23835 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-10-29 10:00:05.121  INFO 23835 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-10-29 10:00:05.122  INFO 23835 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-10-29 10:00:05.122  INFO 23835 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-10-29 10:00:05.123  INFO 23835 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-10-29 10:00:05.456  INFO 23835 --- [main] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-10-29 10:00:05.569  INFO 23835 --- [cluster-ClusterId{value='5bd68ccdebb4d55d1bdaf8f5', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:22}] to localhost:27017
+2018-10-29 10:00:05.574  INFO 23835 --- [cluster-ClusterId{value='5bd68ccdebb4d55d1bdaf8f5', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 3]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=3216040}
+2018-10-29 10:00:06.582  INFO 23835 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-10-29 10:00:07.166  INFO 23835 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-10-29 10:00:07.180  INFO 23835 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2018-10-29 10:00:07.181  INFO 23835 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2018-10-29 10:00:07.221  INFO 23835 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2018-10-29 10:00:07.271  INFO 23835 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-10-29 10:00:07.627  INFO 23835 --- [main] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:23}] to localhost:27017
+2018-10-29 10:00:07.688  INFO 23835 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2018-10-29 10:00:07.692  INFO 23835 --- [main] c.s.m.MovieServiceApplication            : Started MovieServiceApplication in 6.914 seconds (JVM running for 7.672)
+2018-10-29 10:01:58.386  INFO 23835 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-10-29 10:03:17.129  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 10:03:19.359  INFO 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:03:19.360  INFO 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:08:05.272 ERROR 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:08:07.105  INFO 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:08:07.106  INFO 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:08:51.742 ERROR 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:08:53.478  INFO 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:08:53.478  INFO 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:10:49.217 ERROR 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:10:51.680  INFO 23835 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:10:51.681  INFO 23835 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:15:01.747 ERROR 23835 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:15:10.601  INFO 23835 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:15:10.602  INFO 23835 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:15:38.511 ERROR 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:15:50.393 ERROR 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:15:52.691  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:15:52.696  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:16:34.370 ERROR 23835 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:16:36.212  INFO 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:16:36.212  INFO 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:17:12.481  INFO 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 10:17:14.497  INFO 23835 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:17:14.497  INFO 23835 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:18:25.509  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:18:25.509  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:18:42.362  INFO 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 10:29:06.645 ERROR 23835 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:29:07.970  INFO 23835 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:29:07.970  INFO 23835 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:30:49.603 ERROR 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:32:16.194 ERROR 23835 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:32:31.078 ERROR 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:32:34.134  INFO 23835 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:32:34.134  INFO 23835 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:33:26.387 ERROR 23835 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:33:53.650 ERROR 23835 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:33:58.529  INFO 23835 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:33:58.529  INFO 23835 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:34:17.726  INFO 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:34:17.726  INFO 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:34:19.162  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:34:19.162  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:35:48.529 ERROR 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:36:11.435 ERROR 23835 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:37:00.610 ERROR 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:37:16.955 ERROR 23835 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:38:03.897 ERROR 23835 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:38:24.599  INFO 23835 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:38:24.599  INFO 23835 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:40:23.396 ERROR 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:40:24.013  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:40:24.013  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:41:13.400 ERROR 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:41:45.674 ERROR 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:41:58.837 ERROR 23835 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:42:20.641  INFO 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:42:20.642  INFO 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:42:35.312  INFO 23835 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:42:35.312  INFO 23835 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:42:36.697  INFO 23835 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:42:36.697  INFO 23835 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:43:38.108 ERROR 23835 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:43:53.621  INFO 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:43:53.623  INFO 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:44:27.436  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:44:27.436  INFO 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:44:33.057  INFO 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:44:33.058  INFO 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:45:10.340  INFO 23835 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 10:45:40.015 ERROR 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:45:46.219  INFO 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:45:46.219  INFO 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:47:14.269 ERROR 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:47:16.257  INFO 23835 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:47:16.257  INFO 23835 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:47:33.790 ERROR 23835 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:47:34.651  INFO 23835 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:47:34.651  INFO 23835 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:47:45.691 ERROR 23835 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:47:46.917  INFO 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:47:46.917  INFO 23835 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:48:31.064 ERROR 23835 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:48:34.625  INFO 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:48:34.625  INFO 23835 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:48:45.974 ERROR 23835 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:48:46.810  INFO 23835 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:48:46.811  INFO 23835 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:49:05.836  INFO 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:49:05.836  INFO 23835 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:49:27.794  INFO 23835 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 10:54:02.991  INFO 23835 --- [Thread-2] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@e25951c: startup date [Mon Oct 29 10:00:02 IST 2018]; root of context hierarchy
+2018-10-29 10:54:02.993  INFO 23835 --- [Thread-2] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483647
+2018-10-29 10:54:02.995  INFO 23835 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-10-29 10:54:02.999  INFO 23835 --- [Thread-2] org.mongodb.driver.connection            : Closed connection [connectionId{localValue:2, serverValue:23}] to localhost:27017 because the pool has been closed.
+2018-10-29 10:54:09.080  INFO 25314 --- [main] c.s.m.MovieServiceApplication            : Starting MovieServiceApplication on cgi-madhuri with PID 25314 (/home/cgi/Downloads/all/movie-service/target/classes started by cgi in /home/cgi/Downloads/all/movie-service)
+2018-10-29 10:54:09.096  INFO 25314 --- [main] c.s.m.MovieServiceApplication            : No active profile set, falling back to default profiles: default
+2018-10-29 10:54:09.286  INFO 25314 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2f666ebb: startup date [Mon Oct 29 10:54:09 IST 2018]; root of context hierarchy
+2018-10-29 10:54:11.803  INFO 25314 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2018-10-29 10:54:11.838  INFO 25314 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-10-29 10:54:11.838  INFO 25314 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+2018-10-29 10:54:11.850  INFO 25314 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+2018-10-29 10:54:11.953  INFO 25314 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-10-29 10:54:12.017  INFO 25314 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-10-29 10:54:12.021  INFO 25314 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-10-29 10:54:12.022  INFO 25314 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-10-29 10:54:12.022  INFO 25314 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-10-29 10:54:12.022  INFO 25314 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-10-29 10:54:12.325  INFO 25314 --- [main] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-10-29 10:54:12.415  INFO 25314 --- [cluster-ClusterId{value='5bd6997cebb4d562e26789b0', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:24}] to localhost:27017
+2018-10-29 10:54:12.421  INFO 25314 --- [cluster-ClusterId{value='5bd6997cebb4d562e26789b0', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 3]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4106702}
+2018-10-29 10:54:13.432  INFO 25314 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-10-29 10:54:14.024  INFO 25314 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-10-29 10:54:14.038  INFO 25314 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2018-10-29 10:54:14.038  INFO 25314 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2018-10-29 10:54:14.075  INFO 25314 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2018-10-29 10:54:14.120  INFO 25314 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-10-29 10:54:14.428  INFO 25314 --- [main] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:25}] to localhost:27017
+2018-10-29 10:54:14.484  INFO 25314 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2018-10-29 10:54:14.488  INFO 25314 --- [main] c.s.m.MovieServiceApplication            : Started MovieServiceApplication in 6.471 seconds (JVM running for 7.305)
+2018-10-29 10:54:27.646  INFO 25314 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-10-29 10:54:27.849 ERROR 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:54:28.392  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:54:28.393  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:54:38.449 ERROR 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 10:54:39.675  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:54:39.676  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:55:00.894  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:55:00.895  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:55:25.979  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 10:55:43.188  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:55:43.188  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:56:01.751  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:56:01.752  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 10:56:03.807  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 10:56:03.808  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:02:06.518  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:02:06.519  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:02:07.759 ERROR 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:03:20.151  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:03:20.152  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:03:21.239 ERROR 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:03:40.425  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:03:40.426  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:03:40.912 ERROR 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:03:41.971  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:03:41.971  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:03:46.956  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:03:46.957  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:03:47.546 ERROR 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:03:54.230  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:03:54.230  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:04:37.462  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:04:51.739  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:04:51.741  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:05:08.186  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:05:19.274  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:05:19.274  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:05:46.312  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:06:06.645  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:06:29.405  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:06:43.235  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:07:09.977  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:07:12.167 ERROR 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieNotFoundException: Movie is not found in database
+2018-10-29 11:07:31.280  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:07:47.242  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:07:58.418  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:08:10.039  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:08:27.239  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:08:38.104  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:08:47.739  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:08:58.328  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:09:15.631  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:09:21.047  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:09:21.047  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:09:21.690  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 11:09:22.598  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:09:22.598  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:09:29.968  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:09:29.968  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:09:30.211 ERROR 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:09:31.835  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:09:31.835  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:09:37.775  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:09:37.775  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:09:38.086 ERROR 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:09:39.753  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:09:39.753  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:09:56.661  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:09:56.662  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:09:56.955 ERROR 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:09:59.791  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:09:59.791  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:10:03.917  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:10:03.917  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:10:05.260  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:10:05.260  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:10:49.453 ERROR 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:10:55.950  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:10:55.950  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:10:59.809  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:10:59.809  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:11:01.288  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:11:01.288  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:11:29.983 ERROR 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:11:31.564  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:11:31.564  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:11:35.430  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:11:35.431  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:11:36.873  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:11:36.873  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:12:25.775 ERROR 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:12:29.801  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:12:29.802  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:12:32.818  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:12:32.818  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:12:33.930  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:12:33.930  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:13:02.266 ERROR 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:13:07.930  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:13:07.930  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:14:32.464  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:14:32.464  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:14:33.052 ERROR 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:14:45.817  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:14:45.818  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:14:46.192 ERROR 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:14:54.138  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:14:54.138  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:14:55.460  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:14:55.461  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:16:34.194  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:16:34.195  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:16:34.738 ERROR 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:16:40.813 ERROR 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:16:43.013  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:16:43.014  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:16:55.686  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:16:55.686  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:16:56.898  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:16:56.899  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:18:52.953 ERROR 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:18:56.380  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:18:56.380  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:18:59.821  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:19:10.873  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:19:10.873  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:19:13.190  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:19:13.190  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:19:19.476  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:19:20.732  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:19:20.733  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:19:21.996  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:19:21.996  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:23:07.147  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 11:23:09.253  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:23:09.254  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:25:21.353 ERROR 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:25:24.150  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:25:24.150  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:26:49.847 ERROR 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:27:32.401  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:27:32.402  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:27:36.737  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:27:39.318  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:27:39.318  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:27:40.540  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:27:40.540  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:27:50.590  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:27:51.547  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:27:51.547  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:27:52.507  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:27:52.507  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:27:54.562  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:27:54.562  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:10.218  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:10.218  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:11.755  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:11.755  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:13.759  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:13.759  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:13.988  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:13.988  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:14.200  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:14.201  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:14.433  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:14.434  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:14.675  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:14.676  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:14.918  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:14.918  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:15.207  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:15.207  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:28:45.731  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:28:45.731  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:29:24.820  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 11:29:26.181  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:29:26.181  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:35:24.139 ERROR 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:36:34.428 ERROR 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:36:37.202  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:36:37.203  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:36:38.789  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:36:41.835  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:36:41.835  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:36:55.733  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 11:36:59.088  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:36:59.088  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:39:50.273 ERROR 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:40:45.217 ERROR 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:41:48.509 ERROR 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:41:52.157  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:41:52.157  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:41:56.240 ERROR 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:41:58.899  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:41:58.899  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:42:00.677  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:42:04.812  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:42:04.812  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:42:16.896  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 11:42:16.965 ERROR 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:42:18.545  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:42:18.545  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:44:59.465  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 11:45:02.785  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:45:02.785  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:45:04.258  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:45:04.258  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:45:05.445  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:45:05.445  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:45:32.358  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 11:45:32.414 ERROR 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:45:37.868  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:45:37.868  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:46:00.276 ERROR 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:46:01.473  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:46:01.473  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:46:31.152 ERROR 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:46:32.727  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:46:32.727  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:46:57.369 ERROR 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:46:59.270  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:46:59.270  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:47:36.329 ERROR 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:47:41.237  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:47:41.238  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:47:58.237 ERROR 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:48:39.556 ERROR 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:49:15.877 ERROR 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:49:18.484  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:49:18.484  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:49:53.939  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:49:53.940  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:51:01.996 ERROR 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:51:03.540  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:51:03.540  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:53:12.237 ERROR 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:53:13.619  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 11:53:13.620  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 11:53:47.513 ERROR 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:54:42.380 ERROR 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:55:16.427 ERROR 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:57:09.894 ERROR 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 11:57:15.955 ERROR 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 12:00:48.161 ERROR 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 12:00:53.640  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:00:53.640  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:02:46.508  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 12:03:01.410  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 12:03:16.132  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 12:03:27.515  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 12:03:43.570  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 12:03:54.361  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 12:04:05.194  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 12:04:09.699  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:04:09.700  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:04:25.671  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:04:25.672  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:04:27.116  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:04:27.116  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:05:07.904 ERROR 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 12:05:09.506  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:05:09.506  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:05:17.986  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 12:05:21.356  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:05:21.356  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:05:23.177  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:05:23.177  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:06:32.125  INFO 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 12:06:33.554  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:06:33.554  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:09:52.586  INFO 25314 --- [http-nio-8081-exec-1] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 12:09:52.647 ERROR 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 12:09:54.986  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:09:54.986  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:09:58.582  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 12:10:04.943  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:10:04.944  INFO 25314 --- [http-nio-8081-exec-10] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:10:06.198  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:10:06.198  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 12:12:09.911 ERROR 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 12:15:09.903  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 12:15:09.903  INFO 25314 --- [http-nio-8081-exec-8] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 17:35:17.423  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Delete Movies
+2018-10-29 17:35:25.983  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 17:35:25.983  INFO 25314 --- [http-nio-8081-exec-9] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 17:35:28.477  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 17:35:28.477  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 17:35:52.658  INFO 25314 --- [http-nio-8081-exec-4] c.s.m.controller.MovieController         : Inside post maapping controller to aadd movie
+2018-10-29 17:35:52.694 ERROR 25314 --- [http-nio-8081-exec-5] c.s.m.controller.MovieController         : com.stackroute.movieservice.exception.MovieAlreadyExistsException: Movie already exists in database
+2018-10-29 17:35:54.254  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 17:35:54.254  INFO 25314 --- [http-nio-8081-exec-2] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 17:36:16.536  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 17:36:16.537  INFO 25314 --- [http-nio-8081-exec-7] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 17:36:18.901  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 17:36:18.901  INFO 25314 --- [http-nio-8081-exec-3] c.s.m.controller.MovieController         : Getting movies
+2018-10-29 17:36:24.059  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Inside Get Movies
+2018-10-29 17:36:24.059  INFO 25314 --- [http-nio-8081-exec-6] c.s.m.controller.MovieController         : Getting movies

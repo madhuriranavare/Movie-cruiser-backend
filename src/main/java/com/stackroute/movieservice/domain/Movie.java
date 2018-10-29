@@ -1,83 +1,48 @@
 package com.stackroute.movieservice.domain;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.beans.factory.support.MethodOverride;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
 
-@Entity
+
+@Document(collection = "movies")
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
 public class Movie {
 
-    @Id private int id;
+//    @Id
+    private int id;
+
+   // @NotBlank(message = "Name shouldn't be blank")
+    //@Size(min=2, message="Name should have atleast 2 characters")
     private String movieTitle;
+
+  //  @NotBlank(message = "posterURL shouldn't be blank")
+    //@Size(min=2, message="Name should have atleast 2 characters")
     private String posterURL;
+
+
+
+    //@Size(min=2, message="Name should have atleast 2 characters")
     private float rating;
+
+   // @NotBlank(message = "yearOfRelease shouldn't be blank")
+    //@Size(min=2, message="Name should have atleast 2 characters")
     private String yearOfRelease;
+
+   // @NotBlank(message = "Comment shouldn't be blank")
+    //@Size(min=2, message="Name should have atleast 2 characters")
     private String comment;
 
-    public Movie() {
-    }
 
-    public Movie(int id, String movieTitle, String posterURL, float rating, String yearOfRelease, String comment) {
-        this.id = id;
-        this.movieTitle = movieTitle;
-        this.posterURL = posterURL;
-        this.rating = rating;
-        this.yearOfRelease = yearOfRelease;
-        this.comment = comment;
-    }
-
-    public String getComment() {
-        return comment;
-    }
-
-    public void setComment(String comment) {
-        this.comment = comment;
-    }
-
-
-    public String getMovieTitle() {
-        return movieTitle;
-    }
-
-    public void setMovieTitle(String movieTitle) {
-        this.movieTitle = movieTitle;
-    }
-
-    public String getPosterURL() {
-        return posterURL;
-    }
-
-    public void setPosterURL(String posterURL) {
-        this.posterURL = posterURL;
-    }
-
-    public float getRating() {
-        return rating;
-    }
-
-    public void setRating(float rating) {
-        this.rating = rating;
-    }
-
-    public String getYearOfRelease() {
-        return yearOfRelease;
-    }
-
-    public void setYearOfRelease(String yearOfRelease) {
-        this.yearOfRelease = yearOfRelease;
-    }
-
-
-
-
-
-
-    public int getID() {
-        return id;
-    }
-
-    public void setID(int movieId) {
-        this.id = movieId;
-    }
 }

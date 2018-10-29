@@ -1,4 +1,4 @@
-package com.stackroute.movieservice.Exception;
+package com.stackroute.movieservice.exception;
 
 public class MovieNotFoundException extends Exception{
     @Override
